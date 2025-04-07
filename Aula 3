@@ -1,0 +1,8 @@
+🏗️ Modelos de Implantação
+
+Modelo	Onde está rodando?
+
+Exemplo
+Cloud	Totalmente na nuvem AWS	Site hospedado 100% na AWS
+On-Premises	Em servidores próprios, localmente	Servidor físico da empresa
+Híbrido	Parte na nuvem, parte local	Banco de dados local + API na AWS
