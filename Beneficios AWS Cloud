@@ -1,0 +1,51 @@
+1. Escalabilidade e Elasticidade 
+° Escalabilidade: A Aws perimite aumentar ou diminuir seus recursos de computação(servidores, armazenamento, etc) de acorso
+coom a demanda do seu negócio. Você pode escalar verticalmente(aumentar a capacidade de uma única instância)
+ou horizontal(adicionar mais instâncias).
+
+
+° Elasticidade: Você paga apenas pelos recursos que realmente utiliza e pode ajustar a capacidade em tempo real
+para lidar com picos de tráfego ou per[iodos de baixa demanda.
+Isso evita o provisionamento excessivo de infraestrutura e otima custos.
+
+
+2 Confiabilidade e Disponibilidade:
+° Infraestrutura Global: A AWS possui uma infraestrutura robusta e redundante, com datacenters localizados em diversas regiôes do mundo.
+Isso garante alta disponibilidade e tolerância a falhas.
+
+°Acordos de Níveis de Serviços(SLAs): A AWS oferece SLAs com altos níveis de disponibilidade paa seus serviços,
+proporcionando tranquilidade e garantindo a continuidade dos seus negócios.
+
+
+3 Redução de Custos:
+° Pagamento por Utilização: Como mencionaod, você paga apenas pelos recursos que consome, eliminando a necessidade
+de grandes investimentos em hardware e infraestrutura.
+.Economias de Escala: A AWS se beneficia de economias de escala, o que permite oferecerpreços competitivos para seus serviços.
+Menos Custos Operacionais: A AWS gerencia a maior parte da infraestrutura, liberando sua equipe de TI para se concentrar
+em tarefas mais estratégicas.
+
+4. Segurança:
+
+Infraestrutura Segura: A AWS possui uma infraestrutura física e lógica projetada com segurança em mente, com múltiplas camadas de proteção.
+Conformidade: A AWS oferece conformidade com diversos padrões e regulamentações de segurança globais e regionais (como GDPR, HIPAA, SOC 2, etc.).
+Ferramentas de Segurança: A AWS fornece uma ampla variedade de ferramentas e serviços de segurança para proteger seus dados e aplicações, incluindo firewalls, sistemas de detecção de intrusão, criptografia e gerenciamento de identidade e acesso.
+5. Inovação e Agilidade:
+
+Ampla Gama de Serviços: A AWS oferece uma vasta gama de serviços em áreas como computação, armazenamento, bancos de dados, inteligência artificial, machine learning, internet das coisas (IoT) e muito mais. Isso permite inovar rapidamente e construir soluções complexas com facilidade.
+APIs e Automação: A AWS oferece APIs robustas que facilitam a integração com outras ferramentas e a automação de tarefas, aumentando a agilidade e a eficiência.
+Serviços Gerenciados: Muitos serviços da AWS são gerenciados, o que significa que a AWS cuida da configuração, manutenção e atualizações, permitindo que você se concentre no desenvolvimento e na inovação.
+6. Flexibilidade e Escolha:
+
+Diversidade de Serviços: A ampla variedade de serviços permite que você escolha as ferramentas e tecnologias que melhor se adequam às suas necessidades específicas.
+Integração com Outras Plataformas: A AWS se integra facilmente com outras plataformas e tecnologias que você já utiliza.
+Modelo de Implantação Híbrido: A AWS oferece opções para implantações híbridas, permitindo que você combine sua infraestrutura on-premises com a nuvem.
+Em resumo, as principais vantagens de usar a Amazon Cloud incluem:
+
+Maior escalabilidade e flexibilidade para lidar com o crescimento do seu negócio.
+Maior confiabilidade e disponibilidade para garantir a continuidade das suas operações.
+Redução de custos com infraestrutura e operações.
+Segurança robusta para proteger seus dados e aplicações.
+Acesso a uma ampla gama de serviços inovadores para impulsionar o seu negócio.
+Maior agilidade e velocidade no desenvolvimento e implantação de soluções.
+É importante avaliar as necessidades específicas do seu negócio para determinar quais serviços da AWS são mais adequados para você.
+
