@@ -1,0 +1,16 @@
+ Public Cloud = AWS Cloud, Google Cloud, Azure 
+
+Private Cloud = Serviço mais caro, exemplo: Uma empresa quer reservar só para ela, um servidor de uma
+das provedoras Cloud, aquele servidor, seria reservado apenas para esse cliente.
+O governo dos U.S utiliza Private Cloud, a Nasa também utiliza Private Cloud
+
+
+
+Hibrid Cloud = Seria uma junção entre a Cloud e a rede Interna de uma empresa
+ Nuvem Híbrida (Hybrid Cloud) é um ambiente de computação que combina uma infraestrutura local (data center próprio ou nuvem privada) com recursos de nuvem pública (como Amazon Web Services, Microsoft Azure ou Google Cloud Platform). Essa abordagem permite que dados e aplicações sejam compartilhados entre esses diferentes ambientes.
+
+Em essência, a nuvem híbrida oferece o melhor de dois mundos:
+
+Controle e segurança de uma infraestrutura privada para dados e aplicações sensíveis ou com requisitos regulatórios específicos.
+Escalabilidade, flexibilidade e economia de custos da nuvem pública para cargas de trabalho variáveis, picos de demanda e inovação.
+
