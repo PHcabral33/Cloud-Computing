@@ -1,0 +1,13 @@
+🧰 Modelos de Serviço
+
+Modelo	Explicação	Exemplo AWS
+
+IaaS
+Infrastructure as a Service	Você gerencia tudo, a AWS fornece a infraestrutura (rede, servidor, armazenamento)
+EC2, S3, VPC
+
+PaaS
+Platform as a Service	AWS gerencia quase tudo; você só se preocupa com seu código e dados	Elastic Beanstalk
+
+SaaS
+Software as a Service	Tudo é gerenciado pelo provedor, você só usa	Gmail, Office365, Dropbox
